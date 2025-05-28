@@ -112,7 +112,7 @@ export default function Page() {
                     LinkedIn
                   </Button>
                 </Link>
-                <Link href="https://github.com" target="_blank">
+                <Link href="https://github.com/hakimbdev" target="_blank">
                   <Button
                     variant="outline"
                     size="lg"
